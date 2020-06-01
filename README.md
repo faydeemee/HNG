@@ -1,2 +1,0 @@
-# HNG
-Design Traack
